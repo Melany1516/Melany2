@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"bgcolor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 76.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Formulario de inscripción KOF-Coca Cola FEMSA.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Ofertas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/productos.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Index.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/historia.html",
+		"/C/Users/AMD/Downloads/vehiculos/Formulario para visitar Tierra Alta.html",
+		"/C/Users/AMD/Downloads/vehiculos/Index.html",
+		"/C/Users/AMD/Downloads/vehiculos/Bienvenidos a Tierra Alta.html",
+		"/C/Users/AMD/OneDrive/Escritorio/Historia de Tierra Alta.html",
+		"/C/Users/AMD/Downloads/vehiculos/Tierra Alta.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola inicio.html",
+		"/C/Users/AMD/Downloads/vehiculos/Ofertas.html",
+		"/C/Users/AMD/Downloads/vehiculos/Formulario.html",
+		"/C/Users/AMD/Downloads/vehiculos/Firmulario CN.html",
+		"/C/Users/AMD/Downloads/vehiculos/historia.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COLORES.html",
+		"/C/Users/AMD/Downloads/vehiculos/Calendario.html",
+		"/C/Users/AMD/Downloads/vehiculos/tuyo.html",
+		"/C/Users/AMD/Downloads/vehiculos/gracias.html",
+		"/C/Users/AMD/Downloads/vehiculos/diagrama.html",
+		"/C/Users/AMD/Downloads/vehiculos/tablas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/tablas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Ofertas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Produtos o servicio.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Historia de Mcdonalds.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/MCDONALDS.html",
+		"/C/Users/AMD/Downloads/vehiculos/productos.html",
+		"/C/Users/AMD/Downloads/vehiculos/Historia, mision, vision y valores de Coca Cola..html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Spotify.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola..html",
+		"/C/Users/AMD/Downloads/vehiculos/eeeee.html",
+		"/C/Users/AMD/Downloads/vehiculos/Mi primer Html.html",
+		"/C/Users/AMD/Downloads/vehiculos/Tecno.html",
+		"/C/Users/AMD/Downloads/vehiculos/LAS COMPUTADORAS.html",
+		"/C/Users/AMD/Downloads/vehiculos/Generaciones de la computadora",
+		"/C/Users/AMD/Downloads/vehiculos/toyota.webp"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Tierra Alta.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

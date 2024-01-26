@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"bgcolor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/historia.html",
+			"settings":
+			{
+				"buffer_size": 4113,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Ofertas.html",
+			"settings":
+			{
+				"buffer_size": 1714,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Index.html",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t<title>Formulario de inscripción KOF-Coca Cola FEMSA</title>\n</head>\n<body>\n\t<font color=\"blue\"><h1><label>Formulario de inscripción</label></h1>\n\t<br>\n\t<img src=\"coca cola femsa.webp\">\n<form action=\"Mailto melanierogríguez121212@gmail.com\" method=\"post\">\n \t\t<br><br>\n \t\tCédula <input type=\"Text\">\n \t\t    <br><br>\n \t\tNombre <input Type =Text>\n \t\t\t<br><br>\n \t\tApellido <input type=\"Text\">\n \t\t    <br><br>\n \t\tDirección <input Type =Text>\n \t\t\t<br><br>\n \t\tCiudad <input type=\"Text\">\n \t\t    <br><br>\n \t\t Edad<input Type =Text>\n \t\t\t<br><br>\n \t\tSexo<input Type =Text>\n \t\t\t<br><br>\t\n \t\tProfesión <input type=\"Text\">\n \t\t    <br><br>\n \t\tEscolaridad <input Type =Text>\n \t\t\t<br><br>\n \t\tEmail <input type=\"Text\">\n \t\t    <br><br>\n \t\tTeléfono <input Type =Text>\n \t\t\t<br><br>\n \t\tArea de interés <input type=\"Text\">\n \t\t    <br><br>\n \t\t   <input type=checkbox name=Aceptar value=\"Aceptar\"> He leído la Política de privacidad y confirmo que Coca-Cola FEMSA almacenará mis datos personales para poder procesar mi solicitud de empleo.\n \t\t   <br>\n \t\t   <input type=Submit>\n \t\t   <br>\n \t\t   <a href=\"Index.html\">Volver al inicio</a>\n            <br>\n           <a href=\"ofertas.html\">Ir a ofertas</a>\n\n</body>\n</html>",
+			"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Formulario de inscripción KOF-Coca Cola FEMSA.html",
+			"file_size": 1381,
+			"file_write_time": 133504251055046886,
+			"settings":
+			{
+				"buffer_size": 1329,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					10,
+					"left_delete",
+					null,
+					"CgAAAG0BAAAAAAAAbQEAAAAAAAABAAAAbGwBAAAAAAAAbAEAAAAAAAABAAAAaWsBAAAAAAAAawEAAAAAAAABAAAAYWoBAAAAAAAAagEAAAAAAAABAAAAbWkBAAAAAAAAaQEAAAAAAAABAAAAZ2gBAAAAAAAAaAEAAAAAAAABAAAAQGcBAAAAAAAAZwEAAAAAAAABAAAAemYBAAAAAAAAZgEAAAAAAAABAAAAZWUBAAAAAAAAZQEAAAAAAAABAAAAcmQBAAAAAAAAZAEAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAbgEAAAAAAABuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					10,
+					"left_delete",
+					null,
+					"CgAAAGMBAAAAAAAAYwEAAAAAAAABAAAAdmIBAAAAAAAAYgEAAAAAAAABAAAAYWEBAAAAAAAAYQEAAAAAAAABAAAAdGABAAAAAAAAYAEAAAAAAAABAAAAc18BAAAAAAAAXwEAAAAAAAABAAAAb14BAAAAAAAAXgEAAAAAAAABAAAAbV0BAAAAAAAAXQEAAAAAAAABAAAAYVwBAAAAAAAAXAEAAAAAAAABAAAAclsBAAAAAAAAWwEAAAAAAAABAAAAZVoBAAAAAAAAWgEAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAZAEAAAAAAABkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFkBAAAAAAAAWQEAAAAAAAABAAAAaVgBAAAAAAAAWAEAAAAAAAABAAAAYVcBAAAAAAAAVwEAAAAAAAABAAAAbFYBAAAAAAAAVgEAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUBAAAAAAAAVQEAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAFUBAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUBAAAAAAAAVQEAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " mel"
+					},
+					"BAAAAFUBAAAAAAAAVgEAAAAAAAAAAAAAVgEAAAAAAABXAQAAAAAAAAAAAABXAQAAAAAAAFgBAAAAAAAAAAAAAFgBAAAAAAAAWQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "anie"
+					},
+					"BAAAAFkBAAAAAAAAWgEAAAAAAAAAAAAAWgEAAAAAAABbAQAAAAAAAAAAAABbAQAAAAAAAFwBAAAAAAAAAAAAAFwBAAAAAAAAXQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "rogr"
+					},
+					"BAAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAABfAQAAAAAAAGABAAAAAAAAAAAAAGABAAAAAAAAYQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "u"
+					},
+					"AQAAAGEBAAAAAAAAYgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGEBAAAAAAAAYQEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAYgEAAAAAAABiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "í´g"
+					},
+					"AwAAAGEBAAAAAAAAYgEAAAAAAAAAAAAAYgEAAAAAAABjAQAAAAAAAAAAAABjAQAAAAAAAGQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "ue"
+					},
+					"AgAAAGQBAAAAAAAAZQEAAAAAAAAAAAAAZQEAAAAAAABmAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAEAAAAAAABkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "z"
+					},
+					"AQAAAGYBAAAAAAAAZwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgEAAAAAAABmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGIBAAAAAAAAYgEAAAAAAAACAAAAwrQ",
+					"AQAAAAAAAAABAAAAYwEAAAAAAABjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "121212"
+					},
+					"BgAAAGYBAAAAAAAAZwEAAAAAAAAAAAAAZwEAAAAAAABoAQAAAAAAAAAAAABoAQAAAAAAAGkBAAAAAAAAAAAAAGkBAAAAAAAAagEAAAAAAAAAAAAAagEAAAAAAABrAQAAAAAAAAAAAABrAQAAAAAAAGwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgEAAAAAAABmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "@"
+					},
+					"AQAAAGwBAAAAAAAAbQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAEAAAAAAABsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "gmail"
+					},
+					"BQAAAG0BAAAAAAAAbgEAAAAAAAAAAAAAbgEAAAAAAABvAQAAAAAAAAAAAABvAQAAAAAAAHABAAAAAAAAAAAAAHABAAAAAAAAcQEAAAAAAAAAAAAAcQEAAAAAAAByAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQEAAAAAAABtAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 76.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/productos de coca cola.jpg",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/video de coca cola.mp4",
+		"/C/Users/AMD/Downloads/vehiculos/Tierra Alta.html",
+		"/C/Users/AMD/Downloads/vehiculos/Formulario para visitar Tierra Alta.html",
+		"/C/Users/AMD/Downloads/vehiculos/Bienvenidos a Tierra Alta.html",
+		"/C/Users/AMD/OneDrive/Escritorio/Historia de Tierra Alta.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Formulario de inscripción KOF-Coca Cola FEMSA.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Ofertas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/productos.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Index.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COCA COLA/historia.html",
+		"/C/Users/AMD/Downloads/vehiculos/Index.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola inicio.html",
+		"/C/Users/AMD/Downloads/vehiculos/Ofertas.html",
+		"/C/Users/AMD/Downloads/vehiculos/Formulario.html",
+		"/C/Users/AMD/Downloads/vehiculos/Firmulario CN.html",
+		"/C/Users/AMD/Downloads/vehiculos/historia.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola.html",
+		"/C/Users/AMD/OneDrive/Escritorio/COLORES.html",
+		"/C/Users/AMD/Downloads/vehiculos/Calendario.html",
+		"/C/Users/AMD/Downloads/vehiculos/tuyo.html",
+		"/C/Users/AMD/Downloads/vehiculos/gracias.html",
+		"/C/Users/AMD/Downloads/vehiculos/diagrama.html",
+		"/C/Users/AMD/Downloads/vehiculos/tablas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/tablas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Ofertas.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Produtos o servicio.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Historia de Mcdonalds.html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/MCDONALDS.html",
+		"/C/Users/AMD/Downloads/vehiculos/productos.html",
+		"/C/Users/AMD/Downloads/vehiculos/Historia, mision, vision y valores de Coca Cola..html",
+		"/C/Users/AMD/OneDrive/Escritorio/PORTALES WEB/Spotify.html",
+		"/C/Users/AMD/Downloads/vehiculos/Coca Cola..html",
+		"/C/Users/AMD/Downloads/vehiculos/eeeee.html",
+		"/C/Users/AMD/Downloads/vehiculos/Mi primer Html.html",
+		"/C/Users/AMD/Downloads/vehiculos/Tecno.html",
+		"/C/Users/AMD/Downloads/vehiculos/LAS COMPUTADORAS.html",
+		"/C/Users/AMD/Downloads/vehiculos/Generaciones de la computadora",
+		"/C/Users/AMD/Downloads/vehiculos/toyota.webp"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/historia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Ofertas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/AMD/OneDrive/Escritorio/COCA COLA/Formulario de inscripción KOF-Coca Cola FEMSA.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1329,
+								1329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Bienvenidos a Tierra Alta.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
